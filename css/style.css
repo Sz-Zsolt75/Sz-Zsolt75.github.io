@@ -1,10 +1,11 @@
 @font-face {font-family: "Falconflower"; src: url("fonts/Italianno-Regular.ttf"); font-weight: 400; }
-img { display: block; margin-left: auto; margin-right: auto;}
-h1 {text-align: center; font-family: "Falconflower"; font-size: 60px; color: rgb(147, 122, 122);}
-h2 {font-family: "Falconflower"; font-size: 40px; color: rgb(147, 122, 122);}
+img { display: block; margin-left: auto; margin-right: auto; box-shadow: 0 0 8px black;}
+h1 {text-align: center; font-family: "Falconflower"; font-size: 60px; color: rgb(147, 122, 122); box-shadow: 3px 3px 8px black; margin: 60px 35%;}
+h2 {font-family: "Falconflower"; font-size: 40px; color: rgb(147, 122, 122); box-shadow: 3px 3px 8px black; margin: 60px 35%;}
 p {font-family: "Falconflower"; font-size: 30px; color: rgb(147, 122, 122);}
 table {font-family: "Falconflower"; font-size: 30px; color: rgb(147, 122, 122);}
 table.center {margin-left: auto; margin-right: auto;}
 td {text-align: center; vertical-align: middle;}
 ul {font-family: "Falconflower"; font-size: 30px; color: rgb(147, 122, 122);}
 ol {font-family: "Falconflower"; font-size: 30px; color: rgb(147, 122, 122);}
+html {background: rgb(228, 227, 227);}
