@@ -1,0 +1,27 @@
+html {background: rgb(228, 227, 227);}
+@font-face {font-family: "Falconflower"; src: url("fonts/Italianno-Regular.ttf"); font-weight: 400; }
+img { display: block; margin-left: auto; margin-right: auto; box-shadow: 0 0 8px black;}
+h1 {text-align: center; font-family: "Falconflower"; font-size: 60px; color: rgb(147, 122, 122); box-shadow: 3px 3px 8px black; margin: 60px 35%;}
+h2 {text-align: center; font-family: "Falconflower"; font-size: 40px; color: rgb(147, 122, 122); box-shadow: 3px 3px 8px black; margin: 60px 35%;}
+p {font-family: "Falconflower"; font-size: 30px; color: rgb(147, 122, 122);}
+.login {
+    text-align: center; 
+    font-family: "Falconflower"; font-size: 30px; font-weight: 600; color: rgb(147, 122, 122);
+    padding: 15px; border: solid 1px black; box-shadow: 3px 3px 8px black; margin: 30px 42%;
+    display: inline-block;}
+.login input {
+    display: block;
+    margin-bottom: 7px;
+}
+.login input:focus {
+    box-shadow: 3px 3px 8px rgb(147, 122, 122);
+    border: none;
+}
+.submit-btn {
+    text-align: center; 
+    font-family: "Falconflower"; font-size: 30px; font-weight: 600; color: rgb(147, 122, 122);
+    padding: 15px; border: solid 1px rgb(147, 122, 122);
+}
+.login button:hover {
+    box-shadow: 3px 3px 8px rgb(147, 122, 122);
+}

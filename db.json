@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "warid": "WW210101000001",
+      "fdate": "2020.01.01",
+      "gdate": "2020.01.03",
+      "fcause": "Alkatrész hiba",
+      "rmode": "Alkatrész csere",
+      "edate": "2020.01.08",
+      "wnr": "120000",
+      "chdate": "",
+      "changed": "nem",
+      "wndate": "2021.01.06"
+    },
+    {
+      "id": 2,
+      "warid": "WW210101000001",
+      "fdate": "2020.04.01",
+      "gdate": "2020.04.03",
+      "fcause": "Alkatrész hiba",
+      "rmode": "Alkatrész csere",
+      "edate": "2020.04.13",
+      "wnr": "120120",
+      "chdate": "",
+      "changed": "nem",
+      "wndate": "2021.01.16"
+    },
+    {
+      "id": 3,
+      "fdate": "2020-07-06",
+      "gdate": "2020-07-08",
+      "fcause": "Alkatrész hiba",
+      "rmode": "Alkatrész javítás",
+      "edate": "2020-07-13",
+      "wnr": "111200",
+      "changed": "nem",
+      "chdate": "",
+      "wndate": "2021.01.16"
+    }
+  ],
+  "wcarddata": [
+    {
+      "id": 1,
+      "warid": "WW200101000001",
+      "pname": "Televízió",
+      "psn": "SN200101000001",
+      "fname": "Forgalmazó Kft",
+      "faddress": "1111, Budapest, Fő utca 1.",
+      "sdate": "2020.01.01",
+      "wperiod": "1 év",
+      "sname": "Eladó Bt",
+      "saddress": "9999, Város Utca 11.",
+      "wendorig": "2021.01.01"
+    },
+    {
+      "id": 2,
+      "warid": "WW200101000002",
+      "pname": "Gitár",
+      "psn": "G2101005",
+      "fname": "Importőr Nyrt",
+      "faddress": "1100, Budapest, Fő tér 3.",
+      "sdate": "2020.07.01",
+      "wperiod": "2 év",
+      "sname": "Jóker Kft",
+      "saddress": "8888, Falu Első Utca 22.",
+      "wendorig": "2022.07.01"
+    }
+  ]
+}
